@@ -116,41 +116,41 @@ distance = [
 ]
 
 interchange_stations = [
-    # 🔴 Red Line Interchanges
+    # Red Line Interchanges
     "kashmere gate", "inderlok", "netaji subhash place", "welcome",
 
-    # 🟡 Yellow Line Interchanges
+    # Yellow Line Interchanges
     "kashmere gate", "rajiv chowk", "new delhi", "central secretariat", "hauz khas",
     "sikanderpur", "azadpur", "dilli haat - ina",
 
-    # 🔵 Blue Line 1 Interchanges
+    # Blue Line 1 Interchanges
     "rajiv chowk", "mandi house", "kirti nagar", "dwarka sector - 21", "botanical garden",
     "yamuna bank", "mayur vihar - i", "karkarduma", "anand vihar isbt", "noida sector 52",
 
-    # 🔵 Blue Line 2 Interchanges
+    # Blue Line 2 Interchanges
     "yamuna bank", "karkarduma", "anand vihar isbt",
 
-    # 🟢 Green Line Interchanges
+    # Green Line Interchanges
     "kirti nagar", "inderlok", "netaji subhash place", "ashok park main",
 
-    # 🟣 Violet Line Interchanges
+    # Violet Line Interchanges
     "kashmere gate", "central secretariat", "mandi house", "lajpat nagar", "kalkaji mandir",
 
-    # 🌸 Pink Line Interchanges
+    # Pink Line Interchanges
     "majlis park", "azadpur", "netaji subhash place", "shakurpur", "rajouri garden",
     "mayur vihar - i", "karkarduma", "anand vihar isbt", "lajpat nagar", "dilli haat - ina",
     "sarai kale khan - hazrat nizamuddin",
 
-    # 🟠 Magenta Line Interchanges
+    # Magenta Line Interchanges
     "botanical garden", "hauz khas", "janakpuri west", "kalkaji mandir",
 
-    # ⚪ Grey Line Interchange
+    # Grey Line Interchange
     "dwarka",
 
-    # 🟠 Airport Express - Orange Line Interchanges
+    # Airport Express - Orange Line Interchanges
     "new delhi", "dwarka sector - 21", "yashobhoomi dwarka sector - 25",
 
-    # 🔵 Rapid Metro Interchange
+    # Rapid Metro Interchange
     "sikanderpur"
 ]
 
